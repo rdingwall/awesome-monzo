@@ -72,7 +72,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Hardware
 
-- [The Internet of Things that connect to your bank account](https://medium.com/@simonvc/the-internet-of-things-that-connect-to-your-bank-account-ab8a6a2a44d7)
 - [emvexplorer - An electron desktop app to read EMV card data](https://github.com/danielgraf/emvexplorer)
 
 ## Events
@@ -80,6 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Mondo Hackathon #1
 
 - [The First Mondo Hackathon](https://getmondo.co.uk/blog/2015/10/01/the-first-mondo-hackathon/)
+- [The Internet of Things that connect to your bank account](https://medium.com/@simonvc/the-internet-of-things-that-connect-to-your-bank-account-ab8a6a2a44d7)
 
 ##### Mondo Hackathon #2 
 
