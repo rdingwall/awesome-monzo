@@ -67,11 +67,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Events
 
-##### Hackathon #1
+##### Mondo Hackathon #1
 
 - [The First Mondo Hackathon](https://getmondo.co.uk/blog/2015/10/01/the-first-mondo-hackathon/)
 
-##### Hackathon #2 
+##### Mondo Hackathon #2 
 
 - [#mondohack - A weekend of hacking on banking APIs](https://getmondo.co.uk/blog/2015/11/22/mondohack/)
 - [#mondohack: More Projects - Projects from the second Mondo hackathon](https://getmondo.co.uk/blog/2015/11/30/mondohack-2/)
