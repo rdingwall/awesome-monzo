@@ -48,9 +48,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 # Integrations
 - [Foursquare - Auto-foursquare checkin on transansactions](https://github.com/JasonBates/mhook)
-- [mondo-google-calendar - Put your bank transactions in your Google Calendar](https://github.com/jairodiaz/mondo-google-calendar)
+- [Google Calendar - Put your bank transactions in your Google Calendar](https://github.com/jairodiaz/mondo-google-calendar)
+- [GMail - email receipts automatically linked to your transactions](https://github.com/rdingwall/hackathon-attachment-publisher)
+- [Uber - Instant publishing of Uber receipts to your Mondo bank feed](https://github.com/rdingwall/hackathon-uber-mondo)
 
-Testing
+# Testing
 - [mondo-webhook-mock - Small tool for mocking outgoing Mondo webhooks](https://github.com/mcky/mondo-webhook-mock)
 
 # Hardware
@@ -59,3 +61,4 @@ Testing
 # Fun
 
 - [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
+- [Mondo The Game](https://github.com/jonashuckestein/mondo-the-game)
