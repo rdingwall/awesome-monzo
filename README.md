@@ -11,20 +11,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
 - [Mondough Github](https://github.com/mondough)
 
-## Apps
-
-- [Web - mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
-- [Web - mondoweb - An online banking client built on the Mondo API](https://github.com/jamesallison/mondoweb)
-- [Electron - mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
-- [WatchKit - Notification app from the Mondo hackday](https://github.com/timd/MondoHack)
-
-##### Pebble Smartwatch
-
-## Games
-
-- [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
-- [Mondo The Game](https://github.com/jonashuckestein/mondo-the-game)
-
 ## Client Libraries
 
 ##### C# #
@@ -50,18 +36,32 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Ruby
 - [mondo-ruby - The Mondo Ruby client provides a simple Ruby interface to the Mondo API (official)](https://github.com/mondough/mondo-ruby)
 
-## Server
+## Apps
+
+##### Clients
+
+- [Web - mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
+- [Web - mondoweb - An online banking client built on the Mondo API](https://github.com/jamesallison/mondoweb)
+- [Electron - mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
+- [WatchKit - Notification app from the Mondo hackday](https://github.com/timd/MondoHack)
+
+##### Games
+
+- [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
+- [Mondo The Game](https://github.com/jonashuckestein/mondo-the-game)
+
+##### Server
 
 - [mondo-lambda-auth - AWS Lambda functions for fetching and refreshing Mondo tokens](https://github.com/willrax/mondo-lambda-auth)
 
-## Integrations
+##### Integrations
 
 - [Foursquare - Auto-foursquare checkin on transansactions](https://github.com/JasonBates/mhook)
 - [Google Calendar - Put your bank transactions in your Google Calendar](https://github.com/jairodiaz/mondo-google-calendar)
 - [GMail - email receipts automatically linked to your transactions](https://github.com/rdingwall/hackathon-attachment-publisher)
 - [Uber - Instant publishing of Uber receipts to your Mondo bank feed](https://github.com/rdingwall/hackathon-uber-mondo)
 
-## Testing
+##### Testing
 - [mondo-webhook-mock - Small tool for mocking outgoing Mondo webhooks](https://github.com/mcky/mondo-webhook-mock)
 
 ## Hardware
