@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 # Client Libraries
 
-#### C##
+#### C# #
 - [Mondo.NET - A C# client library for the Mondo bank API](https://github.com/rdingwall/mondo.net)
 
 #### Closure
