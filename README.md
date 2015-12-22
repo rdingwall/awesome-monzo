@@ -65,16 +65,29 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The Internet of Things that connect to your bank account](https://medium.com/@simonvc/the-internet-of-things-that-connect-to-your-bank-account-ab8a6a2a44d7)
 - [emvexplorer - An electron desktop app to read EMV card data](https://github.com/danielgraf/emvexplorer)
 
-## Hackathons
+## Events
+
+##### Hackathon #1
 
 - [The First Mondo Hackathon](https://getmondo.co.uk/blog/2015/10/01/the-first-mondo-hackathon/)
+
+##### Hackathon #2 
+
 - [#mondohack - A weekend of hacking on banking APIs](https://getmondo.co.uk/blog/2015/11/22/mondohack/)
 - [#mondohack: More Projects - Projects from the second Mondo hackathon](https://getmondo.co.uk/blog/2015/11/30/mondohack-2/)
+- [Mondo Hack and the bank of tomorrow](https://medium.com/@jonptaylor/mondo-hack-and-the-bank-of-tomorrow-62f672ccd2dd#.gq2axlx8x)
+- [Mondo Hackathon 2](https://www.linkedin.com/pulse/mondo-hackathon-2-dan-graf)
+- [What does a bank look like on your TV?](http://www.webcredible.com/blog/nov15-banking-tv/)
+- [Mondo Hackathon 2](https://medium.com/@simonvc/mondo-hackathon-2-e032c527236a#.pqz6rg5hy)
 
 ## Videos
 
 - [Golang UK Conference 2015 - Matt Heath - Building a Bank with Go](https://www.youtube.com/watch?v=cFJkLfujOts)
 - [HNLondon - Tom Blomfield - Mondo: building a full-stack bank](https://vimeo.com/136918188)
+
+## Blog Posts
+- [My bank has an API so I built online banking](https://medium.com/@jamesallison/mondo-hackathon-e504883a4a05)
+
 
 ## Contribute
 
