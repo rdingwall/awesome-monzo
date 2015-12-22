@@ -6,10 +6,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## General Resources
 - [Mondo Website](https://getmondo.co.uk)
 - [Mondo Blog](https://getmondo.co.uk/blog/)
-- [Mondough Github](https://github.com/mondough)
+- [Mondo Community Forum](https://community.getmondo.co.uk)
 - [Mondo API Documentation](https://getmondo.co.uk/docs/)
 - [Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
-- [Mondo Discourse Forum](https://community.getmondo.co.uk)
+- [Mondough Github](https://github.com/mondough)
 
 ## Client Applications
 
