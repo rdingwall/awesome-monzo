@@ -4,12 +4,25 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## General Resources
+
 - [Mondo Website](https://getmondo.co.uk)
 - [Mondo Blog](https://getmondo.co.uk/blog/)
 - [Mondo Community Forum](https://community.getmondo.co.uk)
 - [Mondo API Documentation](https://getmondo.co.uk/docs/)
 - [Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
 - [Mondough Github](https://github.com/mondough)
+
+## Apps
+
+- [Web - mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
+- [Web - mondoweb - An online banking client built on the Mondo API](https://github.com/jamesallison/mondoweb)
+- [Electron - mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
+- [WatchKit - Notification app from the Mondo hackday](https://github.com/timd/MondoHack)
+
+## Games
+
+- [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
+- [Mondo The Game](https://github.com/jonashuckestein/mondo-the-game)
 
 ## Client Libraries
 
@@ -35,18 +48,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Ruby
 - [mondo-ruby - The Mondo Ruby client provides a simple Ruby interface to the Mondo API (official)](https://github.com/mondough/mondo-ruby)
-
-## Apps
-
-- [Web - mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
-- [Web - mondoweb - An online banking client built on the Mondo API](https://github.com/jamesallison/mondoweb)
-- [Electron - mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
-- [WatchKit - Notification app from the Mondo hackday](https://github.com/timd/MondoHack)
-
-## Games
-
-- [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
-- [Mondo The Game](https://github.com/jonashuckestein/mondo-the-game)
 
 ## Integrations
 
