@@ -11,19 +11,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
 - [Mondough Github](https://github.com/mondough)
 
-## Client Applications
+## Apps
 
-##### Web
-- [mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
-- [mondoweb - An online banking client built on the Mondo API](https://github.com/jamesallison/mondoweb)
-
-##### Electron
-- [mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
-
-##### Apple Watch
-- [WatchKit Notification app from the Mondo hackday](https://github.com/timd/MondoHack)
+- [Web - mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
+- [Web - mondoweb - An online banking client built on the Mondo API](https://github.com/jamesallison/mondoweb)
+- [Electron - mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
+- [WatchKit - Notification app from the Mondo hackday](https://github.com/timd/MondoHack)
 
 ##### Pebble Smartwatch
+
+## Games
+
+- [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
+- [Mondo The Game](https://github.com/jonashuckestein/mondo-the-game)
 
 ## Client Libraries
 
@@ -68,16 +68,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The Internet of Things that connect to your bank account](https://medium.com/@simonvc/the-internet-of-things-that-connect-to-your-bank-account-ab8a6a2a44d7)
 - [emvexplorer - An electron desktop app to read EMV card data](https://github.com/danielgraf/emvexplorer)
 
-## Fun
-
-- [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
-- [Mondo The Game](https://github.com/jonashuckestein/mondo-the-game)
-
 ## Hackathons
 
-
+- [The First Mondo Hackathon](https://getmondo.co.uk/blog/2015/10/01/the-first-mondo-hackathon/)
 - [#mondohack - A weekend of hacking on banking APIs](https://getmondo.co.uk/blog/2015/11/22/mondohack/)
 - [#mondohack: More Projects - Projects from the second Mondo hackathon](https://getmondo.co.uk/blog/2015/11/30/mondohack-2/)
+
 
 ## Videos
 - [Golang UK Conference 2015 - Matt Heath - Building a Bank with Go](https://www.youtube.com/watch?v=cFJkLfujOts)
