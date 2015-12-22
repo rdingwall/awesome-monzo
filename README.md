@@ -100,7 +100,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ## Misc
-- [Press Kit - hi-res Mondo logos](https://getmondo.co.uk/press/)
+- [Press Kit - high resolution Mondo logos](https://getmondo.co.uk/press/)
 
 ## Contribute
 
