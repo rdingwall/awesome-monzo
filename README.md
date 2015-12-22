@@ -52,7 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [MondoJs - A javascript client for the Mondo API](https://github.com/lededje/Mondojs)
 
 ##### Python
-- [mondo-python - A simple python SDK for dealing with the Mondo API It deals with tokens and token refreshing behind the scenes](https://github.com/simonvc/mondo-python)
+- [mondo-python - A simple python SDK for dealing with the Mondo API](https://github.com/simonvc/mondo-python)
 
 ##### Ruby
 - [mondo-ruby (official) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API](https://github.com/mondough/mondo-ruby)
