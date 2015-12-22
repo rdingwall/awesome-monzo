@@ -9,9 +9,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mondough Github](https://github.com/mondough)
 - [Mondo API Documentation](https://getmondo.co.uk/docs/)
 - [Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
-
-## Community
-
 - [Mondo Discourse Forum](https://community.getmondo.co.uk)
 
 ## Client Applications
@@ -75,6 +72,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
 - [Mondo The Game](https://github.com/jonashuckestein/mondo-the-game)
+
+## Hackathons
+
+
+- [#mondohack - A weekend of hacking on banking APIs](https://getmondo.co.uk/blog/2015/11/22/mondohack/)
+- [#mondohack: More Projects - Projects from the second Mondo hackathon](https://getmondo.co.uk/blog/2015/11/30/mondohack-2/)
 
 ## Videos
 - [Golang UK Conference 2015 - Matt Heath - Building a Bank with Go](https://www.youtube.com/watch?v=cFJkLfujOts)
