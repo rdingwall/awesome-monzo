@@ -7,19 +7,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Web
 - [mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
+- [mondoweb - An online banking client built on the Mondo API](https://github.com/jamesallison/mondoweb)
 
 ### Electron
 - [mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
+
+### Apple Watch
+- [WatchKit Notification app from the Mondo hackday](https://github.com/timd/MondoHack)
 
 #### Pebble Smartwatch
 
 # Client Libraries
 
-#### Closure
-- [mondo-clj - Provides a clojure wrapper to the Mondo bank API](https://github.com/adamneilson/mondo-clj)
-
 #### C#
 - [Mondo.NET - A C# client library for the Mondo bank API](https://github.com/rdingwall/mondo.net)
+
+#### Closure
+- [mondo-clj - Provides a clojure wrapper to the Mondo bank API](https://github.com/adamneilson/mondo-clj)
 
 #### Elixir
 - [ex_mondo - Mondo client library for Elixir](https://github.com/willrax/ex_mondo)
@@ -44,7 +48,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 # Integrations
 - [Foursquare - Auto-foursquare checkin on transansactions](https://github.com/JasonBates/mhook)
+- [mondo-google-calendar - Put your bank transactions in your Google Calendar](https://github.com/jairodiaz/mondo-google-calendar)
 
+Testing
+- [mondo-webhook-mock - Small tool for mocking outgoing Mondo webhooks](https://github.com/mcky/mondo-webhook-mock)
 
 # Hardware
 - [emvexplorer - An electron desktop app to read EMV card data](https://github.com/danielgraf/emvexplorer)
+
+# Fun
+
+- [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
