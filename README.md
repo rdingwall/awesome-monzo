@@ -55,7 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondo-python - A simple python SDK for dealing with the Mondo API It deals with tokens and token refreshing behind the scenes](https://github.com/simonvc/mondo-python)
 
 ##### Ruby
-- [mondo-ruby - The Mondo Ruby client provides a simple Ruby interface to the Mondo API (official)](https://github.com/mondough/mondo-ruby)
+- [mondo-ruby (official) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API](https://github.com/mondough/mondo-ruby)
 
 ## Integrations
 
