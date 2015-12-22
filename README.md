@@ -6,45 +6,45 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 # Client Applications
 
 #### Web
-- [mondo-dashboard](https://github.com/willrax/mondo-dashboard) - A dashboard built on top of the Mondo API
+- [mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
 
 ### Electron
-- [mondobar](https://github.com/jongold/mondobar) - Your Mondo balance in your menubar
+- [mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
 
 #### Pebble Smartwatch
 
 # Client Libraries
 
 #### Closure
-- [mondo-clj](https://github.com/adamneilson/mondo-clj) - Provides a clojure wrapper to the Mondo bank API
+- [mondo-clj - Provides a clojure wrapper to the Mondo bank API](https://github.com/adamneilson/mondo-clj)
 
 #### C#
-- [Mondo.NET](https://github.com/rdingwall/mondo.net) - A C# client library for the Mondo bank API
+- [Mondo.NET - A C# client library for the Mondo bank API](https://github.com/rdingwall/mondo.net)
 
 #### Elixir
-- [ex_mondo](https://github.com/willrax/ex_mondo) - Mondo client library for Elixir
+- [ex_mondo - Mondo client library for Elixir](https://github.com/willrax/ex_mondo)
 
 #### Go
-- [go-mondo](https://github.com/sjwhitworth/go-mondo) - Provides Go bindings for the Mondo banking app
+- [go-mondo - Provides Go bindings for the Mondo banking app](https://github.com/sjwhitworth/go-mondo)
 
 #### Javascript
 
-- [mondo-bank](https://github.com/solidgoldpig/mondo-bank) - Node wrapper for Mondo API
-- [MondoJs](https://github.com/lededje/Mondojs) - A javascript client for the Mondo API
+- [mondo-bank - Node wrapper for Mondo API](https://github.com/solidgoldpig/mondo-bank)
+- [MondoJs - A javascript client for the Mondo API](https://github.com/lededje/Mondojs)
 
 #### Python
-- [mondo-python](https://github.com/simonvc/mondo-python) - A simple python SDK for dealing with the Mondo API It deals with tokens and token refreshing behind the scenes
+- [mondo-python - A simple python SDK for dealing with the Mondo API It deals with tokens and token refreshing behind the scenes](https://github.com/simonvc/mondo-python)
 
 #### Ruby
-- [mondo-ruby](https://github.com/mondough/mondo-ruby) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API (official)
+- [mondo-ruby - The Mondo Ruby client provides a simple Ruby interface to the Mondo API (official)](https://github.com/mondough/mondo-ruby)
 
 # Server
 
-- [mondo-lambda-auth](https://github.com/willrax/mondo-lambda-auth) - AWS Lambda functions for fetching and refreshing Mondo tokens
+- [mondo-lambda-auth - AWS Lambda functions for fetching and refreshing Mondo tokens](https://github.com/willrax/mondo-lambda-auth)
 
 # Integrations
-- [Foursquare](https://github.com/JasonBates/mhook) - Auto-foursquare checkin on transansactions
+- [Foursquare - Auto-foursquare checkin on transansactions](https://github.com/JasonBates/mhook)
 
 
 # Hardware
-- [emvexplorer](https://github.com/danielgraf/emvexplorer) - An electron desktop app to read EMV card data
+- [emvexplorer - An electron desktop app to read EMV card data](https://github.com/danielgraf/emvexplorer)
