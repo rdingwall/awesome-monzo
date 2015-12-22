@@ -38,33 +38,30 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Apps
 
-##### Clients
-
 - [Web - mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
 - [Web - mondoweb - An online banking client built on the Mondo API](https://github.com/jamesallison/mondoweb)
 - [Electron - mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
 - [WatchKit - Notification app from the Mondo hackday](https://github.com/timd/MondoHack)
 
-##### Games
+## Games
 
 - [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
 - [Mondo The Game](https://github.com/jonashuckestein/mondo-the-game)
 
-##### Server
-
-- [mondo-lambda-auth - AWS Lambda functions for fetching and refreshing Mondo tokens](https://github.com/willrax/mondo-lambda-auth)
-
-##### Integrations
+## Integrations
 
 - [Foursquare - Auto-foursquare checkin on transansactions](https://github.com/JasonBates/mhook)
 - [Google Calendar - Put your bank transactions in your Google Calendar](https://github.com/jairodiaz/mondo-google-calendar)
 - [GMail - email receipts automatically linked to your transactions](https://github.com/rdingwall/hackathon-attachment-publisher)
 - [Uber - Instant publishing of Uber receipts to your Mondo bank feed](https://github.com/rdingwall/hackathon-uber-mondo)
 
-##### Testing
+## Server
+
+- [mondo-lambda-auth - AWS Lambda functions for fetching and refreshing Mondo tokens](https://github.com/willrax/mondo-lambda-auth)
 - [mondo-webhook-mock - Small tool for mocking outgoing Mondo webhooks](https://github.com/mcky/mondo-webhook-mock)
 
 ## Hardware
+
 - [The Internet of Things that connect to your bank account](https://medium.com/@simonvc/the-internet-of-things-that-connect-to-your-bank-account-ab8a6a2a44d7)
 - [emvexplorer - An electron desktop app to read EMV card data](https://github.com/danielgraf/emvexplorer)
 
@@ -74,15 +71,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [#mondohack - A weekend of hacking on banking APIs](https://getmondo.co.uk/blog/2015/11/22/mondohack/)
 - [#mondohack: More Projects - Projects from the second Mondo hackathon](https://getmondo.co.uk/blog/2015/11/30/mondohack-2/)
 
-
 ## Videos
+
 - [Golang UK Conference 2015 - Matt Heath - Building a Bank with Go](https://www.youtube.com/watch?v=cFJkLfujOts)
 - [HNLondon - Tom Blomfield - Mondo: building a full-stack bank](https://vimeo.com/136918188)
 
 ## Contribute
+
 Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) first.
 
 ## License
+
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 https://github.com/danpalmer/mondo-loyalty
