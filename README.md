@@ -9,10 +9,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
 - [mondoweb - An online banking client built on the Mondo API](https://github.com/jamesallison/mondoweb)
 
-### Electron
+#### Electron
 - [mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
 
-### Apple Watch
+#### Apple Watch
 - [WatchKit Notification app from the Mondo hackday](https://github.com/timd/MondoHack)
 
 #### Pebble Smartwatch
