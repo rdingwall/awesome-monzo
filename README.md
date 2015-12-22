@@ -3,6 +3,16 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+# General Resources
+- [Mondo Official Site](https://getmondo.co.uk)
+- [Mondo Blog](https://getmondo.co.uk/blog/)
+- [Mondough Github](https://github.com/mondough)
+- [Mondo API Documentation](https://getmondo.co.uk/docs/)
+
+# Community
+
+- [Mondo Discourse Forum](https://community.getmondo.co.uk)
+
 # Client Applications
 
 #### Web
