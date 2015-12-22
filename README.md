@@ -99,6 +99,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [My bank has an API so I built online banking](https://medium.com/@jamesallison/mondo-hackathon-e504883a4a05)
 
 
+## Misc
+- [Press Kit - hi-res Mondo logos](https://getmondo.co.uk/press/)
+
 ## Contribute
 
 Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) first.
