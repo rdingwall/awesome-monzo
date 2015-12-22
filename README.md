@@ -63,6 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Google Calendar - Put your bank transactions in your Google Calendar](https://github.com/jairodiaz/mondo-google-calendar)
 - [GMail - email receipts automatically linked to your transactions](https://github.com/rdingwall/hackathon-attachment-publisher)
 - [Uber - Instant publishing of Uber receipts to your Mondo bank feed](https://github.com/rdingwall/hackathon-uber-mondo)
+- [Nectar Card - Loyalty scheme balance tracking in your Mondo account](https://github.com/danpalmer/mondo-loyalty)
 
 ## Server
 
