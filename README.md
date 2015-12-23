@@ -37,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### C# #
 - [Mondo.NET - A C# client library for the Mondo bank API](https://github.com/rdingwall/mondo.net)
 
-##### Closure
+##### Clojure
 - [mondo-clj - Provides a clojure wrapper to the Mondo bank API](https://github.com/adamneilson/mondo-clj)
 
 ##### Elixir
