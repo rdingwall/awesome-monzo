@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Desktop
 
 - [mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
+- [MondoUniversalWindowsSample - Mondo Windows app](https://github.com/rdingwall/MondoUniversalWindowsSample)
 
 ##### Apple Watch
 
