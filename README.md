@@ -5,7 +5,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## General Resources
 
-- [:star: Mondo Website](https://getmondo.co.uk)
+- [:rocket: Mondo Website](https://getmondo.co.uk)
 - [:newspaper: Mondo Blog](https://getmondo.co.uk/blog/)
 - [:speech_balloon: Mondo Community Forum](https://community.getmondo.co.uk)
 - [:blue_book: Mondo API Documentation](https://getmondo.co.uk/docs/)
