@@ -5,13 +5,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## General Resources
 
-- [Mondo Website](https://getmondo.co.uk)
-- [Mondo Blog](https://getmondo.co.uk/blog/) :newspaper:
-- [Mondo Community Forum](https://community.getmondo.co.uk) :speech_balloon:
-- [Mondo API Documentation](https://getmondo.co.uk/docs/) :blue_book:
-- [Developers Console](http://developers.getmondo.co.uk/) :wrench:
-- [Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837) :email:
-- [Mondough Github](https://github.com/mondough) :octocat:
+- [:star: Mondo Website](https://getmondo.co.uk)
+- [:newspaper: Mondo Blog](https://getmondo.co.uk/blog/)
+- [:speech_balloon: Mondo Community Forum](https://community.getmondo.co.uk)
+- [:blue_book: Mondo API Documentation](https://getmondo.co.uk/docs/)
+- [:wrench: Developers Console](http://developers.getmondo.co.uk/)
+- [:email: Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
+- [:octocat: Mondough on Github](https://github.com/mondough)
 
 ## Apps
 
