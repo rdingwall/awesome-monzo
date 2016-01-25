@@ -6,12 +6,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## General Resources
 
 - [Mondo Website](https://getmondo.co.uk)
-- [Mondo Blog](https://getmondo.co.uk/blog/)
-- [Mondo Community Forum](https://community.getmondo.co.uk)
-- [Mondo API Documentation](https://getmondo.co.uk/docs/)
-- [Developers Console](http://developers.getmondo.co.uk/)
-- [Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
-- [Mondough Github](https://github.com/mondough)
+- [Mondo Blog](https://getmondo.co.uk/blog/) :newspaper:
+- [Mondo Community Forum](https://community.getmondo.co.uk) :speech_balloon:
+- [Mondo API Documentation](https://getmondo.co.uk/docs/) :blue_book:
+- [Developers Console](http://developers.getmondo.co.uk/) :wrench:
+- [Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837) :email:
+- [Mondough Github](https://github.com/mondough) :octocat:
 
 ## Apps
 
@@ -58,7 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Python
 - [mondo-python - A simple python SDK for dealing with the Mondo API](https://github.com/simonvc/mondo-python)
 
-##### Ruby
+##### Ruby 
 - [mondo-ruby (official) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API](https://github.com/mondough/mondo-ruby)
 
 ## Integrations
@@ -103,7 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Mondo Hackathon #3
 
-- [Mondo Hackathon #3](https://www.linkedin.com/pulse/mondo-hackathon-3-dan-graf)
+- [Mondo Hackathon #3](https:/www.linkedin.com/pulse/mondo-hackathon-3-dan-graf)
 
 ## Videos
 
@@ -119,7 +119,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contribute
 
-Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) first.
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) first. :gift_heart:
 
 ## License
 
