@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
 - [MondoUniversalWindowsSample - Mondo Windows app](https://github.com/rdingwall/MondoUniversalWindowsSample)
+- [Mondo.extension - A browser extension for Mondo](https://github.com/danielgraf/Mondo.extension)
 
 ##### Apple Watch
 
@@ -43,6 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Elixir
 - [ex_mondo - Mondo client library for Elixir](https://github.com/willrax/ex_mondo)
+- [mondo_elixir - An Elixir client for the Mondo API](https://github.com/stevedomin/mondo_elixir)
 
 ##### Go
 - [go-mondo - Provides Go bindings for the Mondo banking app](https://github.com/sjwhitworth/go-mondo)
@@ -61,10 +63,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Integrations
 
 - [Foursquare - Auto-foursquare checkin on transansactions](https://github.com/JasonBates/mhook)
+- [MondoSquared - Automatically check into foursquare when using your Mondo card](https://github.com/DanielTomlinson/MondoSquared)
 - [Google Calendar - Put your bank transactions in your Google Calendar](https://github.com/jairodiaz/mondo-google-calendar)
 - [GMail - email receipts automatically linked to your transactions](https://github.com/rdingwall/hackathon-attachment-publisher)
 - [Uber - Instant publishing of Uber receipts to your Mondo bank feed](https://github.com/rdingwall/hackathon-uber-mondo)
 - [Nectar Card - Loyalty scheme balance tracking in your Mondo account](https://github.com/danpalmer/mondo-loyalty)
+- [mondo-sheets - Mondo to google sheets integration](https://github.com/mcky/mondo-sheets)
+- [mondo-tx-heatmap - Mondo transactions displayed as a heatmap](https://github.com/rmuch/mondo-tx-heatmap)
+- [mondochat](https://github.com/billinghamj/mondochat)
+- [TeamCash - a smart spending tracker for small teams and businesses](https://github.com/elliotdavies/mondo-hackday)
+- [mondo-bills - service to monitor subscriptions and bills coming out of your Mondo account automatically](https://github.com/danpalmer/mondo-bills)
+- [bitmondo - Show Bitcoin transactions at Mondo feed](https://github.com/ondrejsika/bitmondo)
 
 ## Server
 
@@ -90,6 +99,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mondo Hackathon 2](https://www.linkedin.com/pulse/mondo-hackathon-2-dan-graf)
 - [What does a bank look like on your TV?](http://www.webcredible.com/blog/nov15-banking-tv/)
 - [Mondo Hackathon 2](https://medium.com/@simonvc/mondo-hackathon-2-e032c527236a#.pqz6rg5hy)
+
+#### Mondo Hackathon #3
+
+- [Mondo Hackathon #3](https://www.linkedin.com/pulse/mondo-hackathon-3-dan-graf)
 
 ## Videos
 
