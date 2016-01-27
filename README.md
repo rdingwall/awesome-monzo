@@ -61,6 +61,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Ruby 
 - [mondo-ruby (official) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API](https://github.com/mondough/mondo-ruby)
 
+##### Swift
+- [MondoKit - A Swift framework for accessing the Mondo bank API](https://github.com/pollarm/MondoKit)
+
 ## Integrations
 
 - [Foursquare - Auto-foursquare checkin on transansactions](https://github.com/JasonBates/mhook)
