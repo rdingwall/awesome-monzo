@@ -104,7 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [What does a bank look like on your TV?](http://www.webcredible.com/blog/nov15-banking-tv/)
 - [Mondo Hackathon 2](https://medium.com/@simonvc/mondo-hackathon-2-e032c527236a#.pqz6rg5hy)
 
-#### Mondo Hackathon #3
+##### Mondo Hackathon #3
 
 - [Mondo Hackathon #3](https:/www.linkedin.com/pulse/mondo-hackathon-3-dan-graf)
 
