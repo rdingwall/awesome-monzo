@@ -1,5 +1,5 @@
 # Awesome Mondo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome [Mondo](http://getmondo.co.uk) related things
+> A curated list of awesome [Mondo](https://getmondo.co.uk) related things
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -9,8 +9,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [:newspaper: Mondo Blog](https://getmondo.co.uk/blog/)
 - [:speech_balloon: Mondo Community Forum](https://community.getmondo.co.uk)
 - [:blue_book: Mondo API Documentation](https://getmondo.co.uk/docs/)
-- [:wrench: Developers Console](http://developers.getmondo.co.uk/)
-- [:email: Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
+- [:wrench: Developers Console](https://developers.getmondo.co.uk/)
+- [:loudspeaker: Developer Slack](https://devslack.getmondo.co.uk/)
+- [:email: Developer Mailing List](https://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
 - [:octocat: Mondough on Github](https://github.com/mondough)
 
 ## Apps
