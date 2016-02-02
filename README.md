@@ -108,7 +108,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Mondo Hackathon #3
 
-- [Mondo Hackathon #3](https:/www.linkedin.com/pulse/mondo-hackathon-3-dan-graf)
+- [#mondohack III](https://getmondo.co.uk/blog/2016/01/28/mondohack-III/)
+- [Mondo Hackathon #3](https://www.linkedin.com/pulse/mondo-hackathon-3-dan-graf)
 
 ## Videos
 
