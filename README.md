@@ -72,6 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [MondoSquared - Automatically check into foursquare when using your Mondo card](https://github.com/DanielTomlinson/MondoSquared)
 - [Google Calendar - Put your bank transactions in your Google Calendar](https://github.com/jairodiaz/mondo-google-calendar)
 - [GMail - email receipts automatically linked to your transactions](https://github.com/rdingwall/hackathon-attachment-publisher)
+- [Google sheets - Automatically add transactions to a Google spreadsheet](https://github.com/mcky/mondo-sheets)
 - [Uber - Instant publishing of Uber receipts to your Mondo bank feed](https://github.com/rdingwall/hackathon-uber-mondo)
 - [Nectar Card - Loyalty scheme balance tracking in your Mondo account](https://github.com/danpalmer/mondo-loyalty)
 - [mondo-tx-heatmap - Mondo transactions displayed as a heatmap](https://github.com/rmuch/mondo-tx-heatmap)
