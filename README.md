@@ -1,5 +1,5 @@
 # Awesome Mondo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome [Mondo](http://getmondo.co.uk) related things
+> A curated list of awesome [Mondo](https://getmondo.co.uk) related things
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -10,7 +10,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [:speech_balloon: Mondo Community Forum](https://community.getmondo.co.uk)
 - [:blue_book: Mondo API Documentation](https://getmondo.co.uk/docs/)
 - [:wrench: Developers Console](https://developers.getmondo.co.uk/)
-- [:email: Developer Mailing List](http://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
+- [:loudspeaker: Developer Slack](https://devslack.getmondo.co.uk/)
+- [:email: Developer Mailing List](https://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
 - [:octocat: Mondough on Github](https://github.com/mondough)
 
 ## Apps
@@ -60,7 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Python
 - [mondo-python - A simple python SDK for dealing with the Mondo API](https://github.com/simonvc/mondo-python)
 
-##### Ruby 
+##### Ruby
 - [mondo-ruby (official) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API](https://github.com/mondough/mondo-ruby)
 
 ##### Swift
@@ -97,7 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The First Mondo Hackathon](https://getmondo.co.uk/blog/2015/10/01/the-first-mondo-hackathon/)
 - [The Internet of Things that connect to your bank account](https://medium.com/@simonvc/the-internet-of-things-that-connect-to-your-bank-account-ab8a6a2a44d7)
 
-##### Mondo Hackathon #2 
+##### Mondo Hackathon #2
 
 - [#mondohack - A weekend of hacking on banking APIs](https://getmondo.co.uk/blog/2015/11/22/mondohack/)
 - [#mondohack: More Projects - Projects from the second Mondo hackathon](https://getmondo.co.uk/blog/2015/11/30/mondohack-2/)
