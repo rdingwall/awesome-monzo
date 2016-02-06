@@ -25,7 +25,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Desktop
 
 - [mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
-- [MondoUniversalWindowsSample - Mondo Windows app](https://github.com/rdingwall/MondoUniversalWindowsSample)
 - [Mondo.extension - A browser extension for Mondo](https://github.com/danielgraf/Mondo.extension)
 - [Mon.do Chrome Extension - A browser extension for your Mondo account to get display your current balance and days spending ](https://github.com/dphobson/Mon.do.extension.chrome)
 
@@ -38,10 +37,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
 - [Mondo The Game](https://github.com/jonashuckestein/mondo-the-game)
 
-## Client Libraries
+## Code & Client Libraries
 
 ##### C# #
 - [Mondo.NET - A C# client library for the Mondo bank API](https://github.com/rdingwall/mondo.net)
+- [MondoAspNetMvcSample - Sample Mondo.NET web app](https://github.com/rdingwall/MondoAspNetMvcSample)
+- [MondoUniversalWindowsSample - Sample Mondo.NET desktop/phone app](https://github.com/rdingwall/MondoUniversalWindowsSample)
 
 ##### Clojure
 - [mondo-clj - Provides a clojure wrapper to the Mondo bank API](https://github.com/adamneilson/mondo-clj)
@@ -56,7 +57,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Javascript
 
 - [mondo-bank - Node wrapper for Mondo API](https://github.com/solidgoldpig/mondo-bank)
+- [mondo-lambda-auth - AWS Lambda functions for fetching and refreshing Mondo tokens](https://github.com/willrax/mondo-lambda-auth)
 - [MondoJs - A javascript client for the Mondo API](https://github.com/lededje/Mondojs)
+- [mondo-webhook-mock - Small tool for mocking outgoing Mondo webhooks](https://github.com/mcky/mondo-webhook-mock)
 
 ##### Python
 - [mondo-python - A simple python SDK for dealing with the Mondo API](https://github.com/simonvc/mondo-python)
@@ -81,11 +84,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [TeamCash - a smart spending tracker for small teams and businesses](https://github.com/elliotdavies/mondo-hackday)
 - [mondo-bills - service to monitor subscriptions and bills coming out of your Mondo account automatically](https://github.com/danpalmer/mondo-bills)
 - [bitmondo - Show Bitcoin transactions at Mondo feed](https://github.com/ondrejsika/bitmondo)
-
-## Server
-
-- [mondo-lambda-auth - AWS Lambda functions for fetching and refreshing Mondo tokens](https://github.com/willrax/mondo-lambda-auth)
-- [mondo-webhook-mock - Small tool for mocking outgoing Mondo webhooks](https://github.com/mcky/mondo-webhook-mock)
 
 ## Hardware
 
