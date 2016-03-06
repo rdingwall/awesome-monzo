@@ -62,6 +62,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [MondoJs - A javascript client for the Mondo API](https://github.com/lededje/Mondojs)
 - [mondo-webhook-mock - Small tool for mocking outgoing Mondo webhooks](https://github.com/mcky/mondo-webhook-mock)
 
+##### PHP
+- [Mondo-Client - A Mondo Bank API Client](https://github.com/ThePixelDeveloper/Mondo-Client)
+
 ##### Python
 - [mondo-python - A simple python SDK for dealing with the Mondo API](https://github.com/simonvc/mondo-python)
 
