@@ -65,6 +65,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### PHP
 - [Mondo-Client - A Mondo Bank API Client](https://github.com/ThePixelDeveloper/Mondo-Client)
 - [mondo-php - A PHP-HTTP and PSR-7 Mondo API client](https://github.com/edcs/mondo-php)
+- [oauth-mondo - A Mondo provider for the PHP League OAuth 2.0 Client](https://github.com/edcs/oauth-mondo)
 
 ##### Python
 - [mondo-python - A simple python SDK for dealing with the Mondo API](https://github.com/simonvc/mondo-python)
