@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondo-dashboard - A dashboard built on top of the Mondo API](https://github.com/willrax/mondo-dashboard)
 - [mondoweb - An online banking client built on the Mondo API](https://github.com/jamesallison/mondoweb)
 - [mondo-web - Mondo online banking app](https://github.com/scottrobertson/mondo-web)
+- [My Mondo - Mondo iOS app clone for web](https://github.com/Manoj-nathwani/my-mondo)
 
 ##### Desktop
 
