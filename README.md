@@ -121,6 +121,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [#mondohack III](https://getmondo.co.uk/blog/2016/01/28/mondohack-III/)
 - [Mondo Hackathon #3](https://www.linkedin.com/pulse/mondo-hackathon-3-dan-graf)
 
+##### Codebar Hacks Mondo
+
+- [Codebar hack day with Mondo](http://labs.redweb.com/projects/codebar-hack-day-mondo/)
+
 ## Videos
 
 - [Golang UK Conference 2015 - Matt Heath - Building a Bank with Go](https://www.youtube.com/watch?v=cFJkLfujOts)
