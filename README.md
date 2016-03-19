@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondo-lambda-auth - AWS Lambda functions for fetching and refreshing Mondo tokens](https://github.com/willrax/mondo-lambda-auth)
 - [MondoJs - A javascript client for the Mondo API](https://github.com/lededje/Mondojs)
 - [mondo-webhook-mock - Small tool for mocking outgoing Mondo webhooks](https://github.com/mcky/mondo-webhook-mock)
+- [passport-mondo-oauth2 - Passport strategy for authenticating with Mondo using the OAuth 2.0 API](https://www.npmjs.com/package/passport-mondo-oauth2)
 
 ##### PHP
 - [Mondo-Client - A Mondo Bank API Client](https://github.com/ThePixelDeveloper/Mondo-Client)
