@@ -58,6 +58,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Go
 - [go-mondo - Provides Go bindings for the Mondo banking app](https://github.com/sjwhitworth/go-mondo)
 
+##### Haskell
+- [mondo - Haskell bindings for the Mondo API](https://hackage.haskell.org/package/mondo)
+
 ##### Javascript
 
 - [mondo-bank - Node wrapper for Mondo API](https://github.com/solidgoldpig/mondo-bank)
