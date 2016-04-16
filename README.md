@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondobar - Your Mondo balance in your menubar](https://github.com/jongold/mondobar)
 - [Mondo.extension - A browser extension for Mondo](https://github.com/danielgraf/Mondo.extension)
 - [Mon.do Chrome Extension - A browser extension for your Mondo account to get display your current balance and days spending ](https://github.com/dphobson/Mon.do.extension.chrome)
+- [monies - A little command line application for Mondo](https://github.com/robinjmurphy/monies)
 
 ##### Android
 - [MondoAndroid - An Android app for Mondo](https://github.com/joluet/MondoAndroid)
