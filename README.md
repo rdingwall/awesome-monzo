@@ -70,6 +70,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondo-webhook-mock](https://github.com/mcky/mondo-webhook-mock) - Small tool for mocking outgoing Mondo webhooks
 - [passport-mondo-oauth2](https://www.npmjs.com/package/passport-mondo-oauth2) - Passport strategy for authenticating with Mondo using the OAuth 2.0 API
 
+##### Perl
+
+- [business-mondo](https://github.com/leejo/business-mondo) - Perl library for interacting with the Mondo API
+
 ##### PHP
 - [Mondo-Client](https://github.com/ThePixelDeveloper/Mondo-Client) - A Mondo Bank API Client
 - [mondo-php](https://github.com/edcs/mondo-php) - A PHP-HTTP and PSR-7 Mondo API client
