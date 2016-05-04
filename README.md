@@ -98,7 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [GMail](https://github.com/rdingwall/hackathon-attachment-publisher) - email receipts automatically linked to your transactions
 - [Google sheets](https://github.com/mcky/mondo-sheets) - Automatically add transactions to a Google spreadsheet
 - [Uber](https://github.com/rdingwall/hackathon-uber-mondo) - Instant publishing of Uber receipts to your Mondo bank feed
-- [Nectar Card](https://github.com/rdingwall/hackathon-uber-mondo) - Loyalty scheme balance tracking in your Mondo account]
+- [Nectar Card](https://github.com/danpalmer/mondo-loyalty) - Loyalty scheme balance tracking in your Mondo account]
 - [mondo-tx-heatmap](https://github.com/rmuch/mondo-tx-heatmap) - Mondo transactions displayed as a heatmap
 - [mondochat](https://github.com/billinghamj/mondochat)
 - [TeamCash](https://github.com/elliotdavies/mondo-hackday) - a smart spending tracker for small teams and businesses
