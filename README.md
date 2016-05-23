@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [mondo-dashboard](https://github.com/willrax/mondo-dashboard) - A dashboard built on top of the Mondo API
 - [mondoweb](https://github.com/jamesallison/mondoweb) - An online banking client built on the Mondo API
+- [mondoweb](https://github.com/robcalcroft/mondoweb) - Check your Mondo account from a web browser
 - [mondo-web](https://github.com/scottrobertson/mondo-web) - Mondo online banking app
 - [My Mondo](https://github.com/Manoj-nathwani/my-mondo) - Mondo iOS app clone for web
 - [Mondo QIF Exporter](https://github.com/rubenarakelyan/mondo-qif-exporter) - Mondo transaction exporter for QIF and CSV formats
