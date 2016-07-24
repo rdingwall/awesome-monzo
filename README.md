@@ -33,6 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mondo.extension](https://github.com/danielgraf/Mondo.extension) - A browser extension for Mondo
 - [Mon.do Chrome Extension](https://github.com/dphobson/Mon.do.extension.chrome) - A browser extension for your Mondo account to get display your current balance and days spending
 - [monies](https://github.com/robinjmurphy/monies) - A little command line application for Mondo
+- [Quids](http://quidsapp.com) - Quids will be the personal bank feed for your Mac
 
 ##### Android
 - [MondoAndroid](https://github.com/joluet/MondoAndroid) - An Android app for Mondo
