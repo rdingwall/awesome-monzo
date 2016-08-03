@@ -67,6 +67,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Haskell
 - [mondo](https://hackage.haskell.org/package/mondo) - Haskell bindings for the Mondo API
 
+##### Java
+- [MondoJava](https://github.com/danielgraf/MondoJava) - A Java library for Mondo Bank
+
 ##### Javascript
 
 - [mondo-bank](https://github.com/solidgoldpig/mondo-bank) - Node wrapper for Mondo API
