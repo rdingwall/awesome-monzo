@@ -101,20 +101,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Integrations
 
+- [bitmondo](https://github.com/ondrejsika/bitmondo) - Show Bitcoin transactions at Mondo feed
 - [Foursquare](https://github.com/JasonBates/mhook) - Auto-foursquare checkin on transansactions
-- [MondoSquared](https://github.com/DanielTomlinson/MondoSquared) - Automatically check into foursquare when using your Mondo card
-- [Google Calendar](https://github.com/jairodiaz/mondo-google-calendar) - Put your bank transactions in your Google Calendar
 - [GMail](https://github.com/rdingwall/hackathon-attachment-publisher) - email receipts automatically linked to your transactions
+- [Google Calendar](https://github.com/jairodiaz/mondo-google-calendar) - Put your bank transactions in your Google Calendar
 - [Google sheets](https://github.com/mcky/mondo-sheets) - Automatically add transactions to a Google spreadsheet
-- [Uber](https://github.com/rdingwall/hackathon-uber-mondo) - Instant publishing of Uber receipts to your Mondo bank feed
-- [Nectar Card](https://github.com/danpalmer/mondo-loyalty) - Loyalty scheme balance tracking in your Mondo account]
+- [mondo-bills](https://github.com/danpalmer/mondo-bills) - service to monitor subscriptions and bills coming out of your Mondo account automatically
 - [mondo-tx-heatmap](https://github.com/rmuch/mondo-tx-heatmap) - Mondo transactions displayed as a heatmap
 - [mondochat](https://github.com/billinghamj/mondochat)
-- [TeamCash](https://github.com/elliotdavies/mondo-hackday) - a smart spending tracker for small teams and businesses
-- [mondo-bills](https://github.com/danpalmer/mondo-bills) - service to monitor subscriptions and bills coming out of your Mondo account automatically
-- [bitmondo](https://github.com/ondrejsika/bitmondo) - Show Bitcoin transactions at Mondo feed
-- [Toshl](https://github.com/andreagrandi/mondo-toshl) - Automatically add expenses to Toshl whenever there is a transaction on Mondo card
+- [MondoSquared](https://github.com/DanielTomlinson/MondoSquared) - Automatically check into foursquare when using your Mondo card
 - [MondoTFL](https://github.com/jameshill/mondo-tfl) - Pulls journey information from Transport for London's website, generates journey receipts and then automatically links them to your transactions.
+- [Nectar Card](https://github.com/danpalmer/mondo-loyalty) - Loyalty scheme balance tracking in your Mondo account]
+- [TeamCash](https://github.com/elliotdavies/mondo-hackday) - a smart spending tracker for small teams and businesses
+- [Toshl](https://github.com/andreagrandi/mondo-toshl) - Automatically add expenses to Toshl whenever there is a transaction on Mondo card
+- [Uber](https://github.com/rdingwall/hackathon-uber-mondo) - Instant publishing of Uber receipts to your Mondo bank feed
 
 ## Hardware
 
