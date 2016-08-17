@@ -57,6 +57,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Clojure
 - [mondo-clj](https://github.com/adamneilson/mondo-clj) - Provides a clojure wrapper to the Mondo bank API
 
+##### Crystal
+
+- [crystal-mondo](https://github.com/barisbalic/crystal-mondo) - A simple wrapper for the Mondo API
+
 ##### Elixir
 - [mondo_elixir](https://github.com/stevedomin/mondo_elixir) - An Elixir client for the Mondo API
 
