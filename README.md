@@ -1,15 +1,15 @@
-# Awesome Mondo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome [Mondo](https://getmondo.co.uk) related things
+# Awesome Monzo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of awesome [Monzo](https://monzo.com) related things
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## General Resources
 
-- [Mondo Website](https://getmondo.co.uk)
-- [:newspaper: Mondo Blog](https://getmondo.co.uk/blog/)
-- [:speech_balloon: Mondo Community Forum](https://community.getmondo.co.uk)
-- [:blue_book: Mondo API Documentation](https://getmondo.co.uk/docs/)
-- [:wrench: Developers Console](https://developers.getmondo.co.uk/)
+- [Monzo Website](https://monzo.com)
+- [:newspaper: Monzo Blog](https://monzo.com/blog/)
+- [:speech_balloon: Monzo Community Forum](https://community.getmondo.co.uk)
+- [:blue_book: Monzo API Documentation](https://getmondo.co.uk/docs/)
+- [:wrench: Developers Console](https://developers.getmondo.co.uk.com/)
 - [:loudspeaker: Developer Slack](https://devslack.getmondo.co.uk/)
 - [:email: Developer Mailing List](https://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
 - [:octocat: Mondough on Github](https://github.com/mondough)
@@ -160,7 +160,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ## Misc
-- [Press Kit - high resolution Mondo logos](https://getmondo.co.uk/press/)
+- [Press Kit - high resolution Monzo logos](https://monzo.com/press/)
 
 ## Contribute
 
