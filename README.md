@@ -92,8 +92,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [oauth-mondo](https://github.com/edcs/oauth-mondo) - A Mondo provider for the PHP League OAuth 2.0 Client
 
 ##### Python
-- [mondo-python](https://github.com/muyiwaolu/mondo-python) - A python SDK for interacting with the Mondo API
 - [mondo-python](https://github.com/simonvc/mondo-python) - A simple python SDK for dealing with the Mondo API
+- [monzo-python](https://github.com/muyiwaolu/monzo-python) - A python SDK for interacting with the Monzo API
 
 ##### Ruby
 - [mondo-ruby (official)](https://github.com/mondough/mondo-ruby) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API
