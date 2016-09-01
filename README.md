@@ -8,11 +8,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Monzo Website](https://monzo.com)
 - [:newspaper: Monzo Blog](https://monzo.com/blog/)
 - [:speech_balloon: Monzo Community Forum](https://community.getmondo.co.uk)
-- [:blue_book: Monzo API Documentation](https://getmondo.co.uk/docs/)
-- [:wrench: Developers Console](https://developers.getmondo.co.uk.com/)
+- [:blue_book: Monzo API Documentation](https://monzo.com/docs/)
+- [:wrench: Developers Console](https://developers.getmondo.co.uk/)
 - [:loudspeaker: Developer Slack](https://devslack.getmondo.co.uk/)
 - [:email: Developer Mailing List](https://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
-- [:octocat: Mondough on Github](https://github.com/mondough)
+- [:octocat: Monzo on Github](https://github.com/monzo)
 - [:rotating_light: Mondo Service Status](http://mondo.statuspage.io/)
 
 ## Apps
