@@ -84,7 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Perl
 
-- [business-mondo](https://github.com/leejo/business-mondo) - Perl library for interacting with the Mondo API
+- [business-monzo](https://github.com/leejo/business-monzo) - Perl library for interacting with the Monzo API
 
 ##### PHP
 - [Mondo-Client](https://github.com/ThePixelDeveloper/Mondo-Client) - A Mondo Bank API Client
