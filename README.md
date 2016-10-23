@@ -147,6 +147,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [#mondohack III](https://getmondo.co.uk/blog/2016/01/28/mondohack-III/)
 - [Mondo Hackathon #3](https://www.linkedin.com/pulse/mondo-hackathon-3-dan-graf)
 
+##### Mondo Hackathon #4
+
+- [#mondohack IV](https://monzo.com/blog/2016/04/21/mondohack-iv/)
+
 ##### Codebar Hacks Mondo
 
 - [Codebar hack day with Mondo](http://labs.redweb.com/projects/codebar-hack-day-mondo/)
