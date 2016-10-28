@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Python
 - [mondo-python](https://github.com/simonvc/mondo-python) - A simple python SDK for dealing with the Mondo API
 - [monzo-python](https://github.com/muyiwaolu/monzo-python) - A python SDK for interacting with the Monzo API
+- [monzo-python](https://github.com/pyepye/monzo-python) - A Python (2.7) wrapper for the Monzo API
 
 ##### Ruby
 - [mondo-ruby (official)](https://github.com/mondough/mondo-ruby) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API
@@ -122,6 +123,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Toshl](https://github.com/andreagrandi/mondo-toshl) - Automatically add expenses to Toshl whenever there is a transaction on Mondo card
 - [Uber](https://github.com/rdingwall/hackathon-uber-mondo) - Instant publishing of Uber receipts to your Mondo bank feed
 - [YNAB](https://github.com/scottrobertson/mondo-to-ynab) - Automatically push Mondo transactions to YNAB
+- [Monzo Alexa Skill](https://github.com/pyepye/monzo-alexa-skill) - Custom Amazon Alexa skill API for Monzo
 
 ## Hardware
 
