@@ -84,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [MondoJs](https://github.com/lededje/Mondojs) - A javascript client for the Mondo API
 - [mondo-webhook-mock](https://github.com/mcky/mondo-webhook-mock) - Small tool for mocking outgoing Mondo webhooks
 - [passport-mondo-oauth2](https://www.npmjs.com/package/passport-mondo-oauth2) - Passport strategy for authenticating with Mondo using the OAuth 2.0 API
+- [monzo-api-boilerplate](https://hyperdev.com/#!/project/monzo-api-boilerplate) - A Node.js template for getting started with the Monzo API
 
 ##### Perl
 
