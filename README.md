@@ -72,7 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondo](https://github.com/icio/mondo) - Golang Mondo API Client
 
 ##### Haskell
-- [mondo](https://hackage.haskell.org/package/mondo) - Haskell bindings for the Mondo API
+- [monzo](https://hackage.haskell.org/package/monzo) - Haskell bindings for the Monzo API
 
 ##### Java
 - [MondoJava](https://github.com/danielgraf/MondoJava) - A Java library for Mondo Bank
