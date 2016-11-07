@@ -25,9 +25,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondoweb](https://github.com/jamesallison/mondoweb) - An online banking client built on the Mondo API
 - [mondoweb](https://github.com/robcalcroft/mondoweb) - Check your Mondo account from a web browser
 - [mondo-web](https://github.com/scottrobertson/mondo-web) - Mondo online banking app
-- [My Mondo](https://github.com/Manoj-nathwani/my-mondo) - Mondo iOS app clone for web
 - [Monzo QIF Exporter](https://github.com/rubenarakelyan/monzo-qif-exporter) - Monzo transaction exporter for QIF and CSV formats
 - [Monzo to QIF CLI](https://github.com/scottrobertson/monzo-to-qif) - Export Monzo transaction to QIF via CLI
+- [My Mondo](https://github.com/Manoj-nathwani/my-mondo) - Mondo iOS app clone for web
 
 ##### Desktop
 
@@ -79,12 +79,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Javascript
 
+- [monzo-api-boilerplate](https://hyperdev.com/#!/project/monzo-api-boilerplate) - A Node.js template for getting started with the Monzo API
 - [mondo-bank](https://github.com/solidgoldpig/mondo-bank) - Node wrapper for Mondo API
 - [mondo-lambda-auth](https://github.com/willrax/mondo-lambda-auth) - AWS Lambda functions for fetching and refreshing Mondo tokens
 - [MondoJs](https://github.com/lededje/Mondojs) - A javascript client for the Mondo API
 - [mondo-webhook-mock](https://github.com/mcky/mondo-webhook-mock) - Small tool for mocking outgoing Mondo webhooks
 - [passport-mondo-oauth2](https://www.npmjs.com/package/passport-mondo-oauth2) - Passport strategy for authenticating with Mondo using the OAuth 2.0 API
-- [monzo-api-boilerplate](https://hyperdev.com/#!/project/monzo-api-boilerplate) - A Node.js template for getting started with the Monzo API
 
 ##### Perl
 
@@ -110,6 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Integrations
 
+- [alexa-monzo](https://github.com/Geit/alexa-monzo) - Monzo skill for the Amazon Alexa
 - [bitmondo](https://github.com/ondrejsika/bitmondo) - Show Bitcoin transactions at Mondo feed
 - [Foursquare](https://github.com/JasonBates/mhook) - Auto-foursquare checkin on transansactions
 - [GMail](https://github.com/rdingwall/hackathon-attachment-publisher) - email receipts automatically linked to your transactions
@@ -120,13 +121,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondochat](https://github.com/billinghamj/mondochat)
 - [MondoSquared](https://github.com/DanielTomlinson/MondoSquared) - Automatically check into foursquare when using your Mondo card
 - [MondoTFL](https://github.com/jameshill/mondo-tfl) - Pulls journey information from Transport for London's website, generates journey receipts and then automatically links them to your transactions.
+- [Monzo Alexa Skill](https://github.com/pyepye/monzo-alexa-skill) - Custom Amazon Alexa skill API for Monzo
 - [Nectar Card](https://github.com/danpalmer/mondo-loyalty) - Loyalty scheme balance tracking in your Mondo account]
 - [TeamCash](https://github.com/elliotdavies/mondo-hackday) - a smart spending tracker for small teams and businesses
 - [Toshl](https://github.com/andreagrandi/mondo-toshl) - Automatically add expenses to Toshl whenever there is a transaction on Mondo card
 - [Uber](https://github.com/rdingwall/hackathon-uber-mondo) - Instant publishing of Uber receipts to your Mondo bank feed
 - [YNAB](https://github.com/scottrobertson/mondo-to-ynab) - Automatically push Mondo transactions to YNAB
-- [Monzo Alexa Skill](https://github.com/pyepye/monzo-alexa-skill) - Custom Amazon Alexa skill API for Monzo
-- [alexa-monzo](https://github.com/Geit/alexa-monzo) - Monzo skill for the Amazon Alexa
 
 ## Hardware
 
