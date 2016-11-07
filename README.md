@@ -126,6 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Uber](https://github.com/rdingwall/hackathon-uber-mondo) - Instant publishing of Uber receipts to your Mondo bank feed
 - [YNAB](https://github.com/scottrobertson/mondo-to-ynab) - Automatically push Mondo transactions to YNAB
 - [Monzo Alexa Skill](https://github.com/pyepye/monzo-alexa-skill) - Custom Amazon Alexa skill API for Monzo
+- [alexa-monzo](https://github.com/Geit/alexa-monzo) - Monzo skill for the Amazon Alexa
 
 ## Hardware
 
