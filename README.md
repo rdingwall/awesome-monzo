@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Java
 - [MondoJava](https://github.com/danielgraf/MondoJava) - A Java library for Mondo Bank
+- [Monzo Retrofit](https://github.com/rubenwardy/monzo_retrofit/) - Clean class based API interaction using Retrofit
 
 ##### Javascript
 
