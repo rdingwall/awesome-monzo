@@ -165,6 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Videos
 
+- [CodeNode - Oliver Beattie - Building a Bank with Kubernetes](https://skillsmatter.com/skillscasts/9146-building-a-bank-with-kubernetes#video)
 - [Golang UK Conference 2015 - Matt Heath - Building a Bank with Go](https://www.youtube.com/watch?v=cFJkLfujOts)
 - [HNLondon - Tom Blomfield - Mondo: building a full-stack bank](https://vimeo.com/136918188)
 
