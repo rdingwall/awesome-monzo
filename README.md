@@ -39,6 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Quids](http://quidsapp.com) - Quids will be the personal bank feed for your Mac
 - [Monzoo](https://github.com/robjtede/monzoo) - Unofficial Monzo Client for Desktop
 - [clonzo](https://github.com/MutedJam/clonzo) - Just another Node.js-based command line client for Monzo
+- [monz](https://github.com/pawelad/monz) - Simple (and awesome) Monzo command line interface
 
 ##### Android
 - [MondoAndroid](https://github.com/joluet/MondoAndroid) - An Android app for Mondo
@@ -103,6 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondo-python](https://github.com/simonvc/mondo-python) - A simple python SDK for dealing with the Mondo API
 - [monzo-python](https://github.com/muyiwaolu/monzo-python) - A python SDK for interacting with the Monzo API
 - [monzo-python](https://github.com/pyepye/monzo-python) - A Python (2.7) wrapper for the Monzo API
+- [pymonzo](https://github.com/pawelad/pymonzo) - An awesome Python library that smartly wraps Monzo public API
 
 ##### Ruby
 - [mondo-ruby (official)](https://github.com/mondough/mondo-ruby) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API
