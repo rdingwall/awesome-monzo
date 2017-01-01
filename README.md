@@ -108,8 +108,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Ruby
 - [mondo-ruby (official)](https://github.com/mondough/mondo-ruby) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API
-- [omni-auth-mondo](https://github.com/tombell/omniauth-mondo) - Mondo strategy for OmniAuth
-- [omniauth-mondo-example](https://github.com/tombell/omniauth-mondo-example) - Example Sinatra app using the Mondo provider for OmniAuth
+- [omniauth-monzo](https://github.com/tombell/omniauth-monzo) - Monzo strategy for OmniAuth
+- [omniauth-monzo-example](https://github.com/tombell/omniauth-monzo-example) - Example Sinatra app using the Monzo provider for OmniAuth
 
 ##### Swift
 - [MondoKit](https://github.com/pollarm/MondoKit) - A Swift framework for accessing the Mondo bank API
