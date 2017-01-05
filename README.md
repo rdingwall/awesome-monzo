@@ -66,7 +66,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Crystal
 
-- [crystal-mondo](https://github.com/barisbalic/crystal-mondo) - A simple wrapper for the Mondo API
+- [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - A simple wrapper for the Monzo API
 
 ##### Elixir
 - [mondo_elixir](https://github.com/stevedomin/mondo_elixir) - An Elixir client for the Mondo API
