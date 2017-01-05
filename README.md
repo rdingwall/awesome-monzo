@@ -85,7 +85,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Javascript
 
 - [monzo-api-boilerplate](https://hyperdev.com/#!/project/monzo-api-boilerplate) - A Node.js template for getting started with the Monzo API
-- [mondo-bank](https://github.com/solidgoldpig/mondo-bank) - Node wrapper for Mondo API
+- [monzo-bank](https://github.com/solidgoldpig/monzo-bank) - Node wrapper for Monzo API
 - [mondo-lambda-auth](https://github.com/willrax/mondo-lambda-auth) - AWS Lambda functions for fetching and refreshing Mondo tokens
 - [MondoJs](https://github.com/lededje/Mondojs) - A javascript client for the Mondo API
 - [mondo-webhook-mock](https://github.com/mcky/mondo-webhook-mock) - Small tool for mocking outgoing Mondo webhooks
