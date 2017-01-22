@@ -38,7 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [monies](https://github.com/robinjmurphy/monies) - A little command line application for Mondo
 - [monzo-cli](https://github.com/cesarferreira/monzo-cli) - Monzo bank command line interface client
 - [Quids](http://quidsapp.com) - Quids will be the personal bank feed for your Mac
-- [Monzoo](https://github.com/robjtede/monzoo) - Unofficial Monzo Client for Desktop
+- [Monux](https://github.com/robjtede/monux) - Unofficial Monzo Client for Desktop
 - [clonzo](https://github.com/MutedJam/clonzo) - Just another Node.js-based command line client for Monzo
 - [monz](https://github.com/pawelad/monz) - Simple (and awesome) Monzo command line interface
 
