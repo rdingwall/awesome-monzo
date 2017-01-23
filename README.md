@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Monzo QIF Exporter](https://github.com/rubenarakelyan/monzo-qif-exporter) - Monzo transaction exporter for QIF and CSV formats
 - [Monzo to QIF CLI](https://github.com/scottrobertson/monzo-to-qif) - Export Monzo transaction to QIF via CLI
 - [My Mondo](https://github.com/Manoj-nathwani/my-mondo) - Mondo iOS app clone for web
+- [monzo-cljs](https://github.com/DaveWM/monzo-cljs) - A Monzo client built in clojurescript
 
 ##### Desktop
 
@@ -37,6 +38,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [monies](https://github.com/robinjmurphy/monies) - A little command line application for Mondo
 - [monzo-cli](https://github.com/cesarferreira/monzo-cli) - Monzo bank command line interface client
 - [Quids](http://quidsapp.com) - Quids will be the personal bank feed for your Mac
+- [Monux](https://github.com/robjtede/monux) - Unofficial Monzo Client for Desktop
+- [clonzo](https://github.com/MutedJam/clonzo) - Just another Node.js-based command line client for Monzo
+- [monz](https://github.com/pawelad/monz) - Simple (and awesome) Monzo command line interface
 
 ##### Android
 - [MondoAndroid](https://github.com/joluet/MondoAndroid) - An Android app for Mondo
@@ -63,7 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Crystal
 
-- [crystal-mondo](https://github.com/barisbalic/crystal-mondo) - A simple wrapper for the Mondo API
+- [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - A simple wrapper for the Monzo API
 
 ##### Elixir
 - [mondo_elixir](https://github.com/stevedomin/mondo_elixir) - An Elixir client for the Mondo API
@@ -82,7 +86,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Javascript
 
 - [monzo-api-boilerplate](https://hyperdev.com/#!/project/monzo-api-boilerplate) - A Node.js template for getting started with the Monzo API
-- [mondo-bank](https://github.com/solidgoldpig/mondo-bank) - Node wrapper for Mondo API
+- [monzo-bank](https://github.com/solidgoldpig/monzo-bank) - Node wrapper for Monzo API
 - [mondo-lambda-auth](https://github.com/willrax/mondo-lambda-auth) - AWS Lambda functions for fetching and refreshing Mondo tokens
 - [MondoJs](https://github.com/lededje/Mondojs) - A javascript client for the Mondo API
 - [mondo-webhook-mock](https://github.com/mcky/mondo-webhook-mock) - Small tool for mocking outgoing Mondo webhooks
@@ -101,11 +105,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondo-python](https://github.com/simonvc/mondo-python) - A simple python SDK for dealing with the Mondo API
 - [monzo-python](https://github.com/muyiwaolu/monzo-python) - A python SDK for interacting with the Monzo API
 - [monzo-python](https://github.com/pyepye/monzo-python) - A Python (2.7) wrapper for the Monzo API
+- [pymonzo](https://github.com/pawelad/pymonzo) - An awesome Python library that smartly wraps Monzo public API
 
 ##### Ruby
 - [mondo-ruby (official)](https://github.com/mondough/mondo-ruby) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API
-- [omni-auth-mondo](https://github.com/tombell/omniauth-mondo) - Mondo strategy for OmniAuth
-- [omniauth-mondo-example](https://github.com/tombell/omniauth-mondo-example) - Example Sinatra app using the Mondo provider for OmniAuth
+- [omniauth-monzo](https://github.com/tombell/omniauth-monzo) - Monzo strategy for OmniAuth
+- [omniauth-monzo-example](https://github.com/tombell/omniauth-monzo-example) - Example Sinatra app using the Monzo provider for OmniAuth
 
 ##### Swift
 - [MondoKit](https://github.com/pollarm/MondoKit) - A Swift framework for accessing the Mondo bank API
@@ -123,12 +128,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondochat](https://github.com/billinghamj/mondochat)
 - [MondoSquared](https://github.com/DanielTomlinson/MondoSquared) - Automatically check into foursquare when using your Mondo card
 - [MondoTFL](https://github.com/jameshill/mondo-tfl) - Pulls journey information from Transport for London's website, generates journey receipts and then automatically links them to your transactions.
+- [Monzo-Google-Sheets](https://github.com/Andy-EOS/Monzo-Google-Sheets) - Scripts to sync data betweeen a google sheet and Monzo account
 - [Monzo Alexa Skill](https://github.com/pyepye/monzo-alexa-skill) - Custom Amazon Alexa skill API for Monzo
 - [Nectar Card](https://github.com/danpalmer/mondo-loyalty) - Loyalty scheme balance tracking in your Mondo account]
 - [TeamCash](https://github.com/elliotdavies/mondo-hackday) - a smart spending tracker for small teams and businesses
 - [Toshl](https://github.com/andreagrandi/mondo-toshl) - Automatically add expenses to Toshl whenever there is a transaction on Mondo card
 - [Uber](https://github.com/rdingwall/hackathon-uber-mondo) - Instant publishing of Uber receipts to your Mondo bank feed
 - [YNAB](https://github.com/scottrobertson/mondo-to-ynab) - Automatically push Mondo transactions to YNAB
+- [hubot-monzo-me](https://github.com/robinjmurphy/hubot-monzo-me) - Quickly generate Monzo.me URLs in chat
 
 ## Hardware
 
