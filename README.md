@@ -130,7 +130,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [MondoTFL](https://github.com/jameshill/mondo-tfl) - Pulls journey information from Transport for London's website, generates journey receipts and then automatically links them to your transactions.
 - [Monzo-Google-Sheets](https://github.com/Andy-EOS/Monzo-Google-Sheets) - Scripts to sync data betweeen a google sheet and Monzo account
 - [Monzo Alexa Skill](https://github.com/pyepye/monzo-alexa-skill) - Custom Amazon Alexa skill API for Monzo
-- [Nectar Card](https://github.com/danpalmer/mondo-loyalty) - Loyalty scheme balance tracking in your Mondo account]
+- [MonzySkill](https://github.com/ajmaradiaga/MonzySkill) - Ask for your balance, transactions & total spent. Tells you your topups, transfers and transaction history.
+- [Nectar Card](https://github.com/danpalmer/mondo-loyalty) - Loyalty scheme balance tracking in your Mondo account
 - [TeamCash](https://github.com/elliotdavies/mondo-hackday) - a smart spending tracker for small teams and businesses
 - [Toshl](https://github.com/andreagrandi/mondo-toshl) - Automatically add expenses to Toshl whenever there is a transaction on Mondo card
 - [Uber](https://github.com/rdingwall/hackathon-uber-mondo) - Instant publishing of Uber receipts to your Mondo bank feed
