@@ -114,6 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Swift
 - [MondoKit](https://github.com/pollarm/MondoKit) - A Swift framework for accessing the Mondo bank API
+- [monzo-swift](https://github.com/marius-serban/monzo-swift) - A server-side Swift package for interacting with the Monzo public API
 
 ## Integrations
 
