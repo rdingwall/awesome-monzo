@@ -128,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mondo-tx-heatmap](https://github.com/rmuch/mondo-tx-heatmap) - Mondo transactions displayed as a heatmap
 - [mondochat](https://github.com/billinghamj/mondochat)
 - [MondoSquared](https://github.com/DanielTomlinson/MondoSquared) - Automatically check into foursquare when using your Mondo card
+  - forked and updated: [monzo-squared](https://github.com/iainmullan/monzo-squared)
 - [MondoTFL](https://github.com/jameshill/mondo-tfl) - Pulls journey information from Transport for London's website, generates journey receipts and then automatically links them to your transactions.
 - [Monzo-Google-Sheets](https://github.com/Andy-EOS/Monzo-Google-Sheets) - Scripts to sync data betweeen a google sheet and Monzo account
 - [Monzo Alexa Skill](https://github.com/pyepye/monzo-alexa-skill) - Custom Amazon Alexa skill API for Monzo
