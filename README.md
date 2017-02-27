@@ -139,6 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Uber](https://github.com/rdingwall/hackathon-uber-mondo) - Instant publishing of Uber receipts to your Mondo bank feed
 - [YNAB](https://github.com/scottrobertson/mondo-to-ynab) - Automatically push Mondo transactions to YNAB
 - [hubot-monzo-me](https://github.com/robinjmurphy/hubot-monzo-me) - Quickly generate Monzo.me URLs in chat
+- [monzo-roundup](https://github.com/adamtrousdale/monzo-roundup) - Round up Monzo transactions and send to moneybox
 
 ## Hardware
 
