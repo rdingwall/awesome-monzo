@@ -122,6 +122,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bitmondo](https://github.com/ondrejsika/bitmondo) - Show Bitcoin transactions at Mondo feed
 - [Foursquare](https://github.com/JasonBates/mhook) - Auto-foursquare checkin on transansactions
 - [GMail](https://github.com/rdingwall/hackathon-attachment-publisher) - email receipts automatically linked to your transactions
+- [Google Assistant](https://github.com/tommy5dollar/gonzo) - Action for the Google (Home) Assistant
 - [Google Calendar](https://github.com/jairodiaz/mondo-google-calendar) - Put your bank transactions in your Google Calendar
 - [Google sheets](https://github.com/mcky/mondo-sheets) - Automatically add transactions to a Google spreadsheet
 - [mondo-bills](https://github.com/danpalmer/mondo-bills) - service to monitor subscriptions and bills coming out of your Mondo account automatically
