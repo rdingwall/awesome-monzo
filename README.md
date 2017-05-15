@@ -3,6 +3,8 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+Entries with 🔒 are either under private beta or are closed source.
+
 ## General Resources
 
 - [Monzo Website](https://monzo.com)
@@ -37,12 +39,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mon.do Chrome Extension](https://github.com/dphobson/Mon.do.extension.chrome) - A browser extension for your Mondo account to get display your current balance and days spending
 - [monies](https://github.com/robinjmurphy/monies) - A little command line application for Mondo
 - [monzo-cli](https://github.com/cesarferreira/monzo-cli) - Monzo bank command line interface client
-- [Quids](http://quidsapp.com) - Quids will be the personal bank feed for your Mac
+- [Quids](http://quidsapp.com) - Quids will be the personal bank feed for your Mac 🔒
 - [Monux](https://github.com/robjtede/monux) - Unofficial Monzo Client for Desktop
 - [clonzo](https://github.com/MutedJam/clonzo) - Just another Node.js-based command line client for Monzo
 - [monz](https://github.com/pawelad/monz) - Simple (and awesome) Monzo command line interface
 
+
 ##### Android
+- [Analytics for Monzo](https://monzolytics.rubenwardy.com/) - Graphs and statistics 🔒
 - [MondoAndroid](https://github.com/joluet/MondoAndroid) - An Android app for Mondo
 - [Mondroid](https://github.com/hitherejoe/Mondroid) - A simple Mondo client for Android
 
