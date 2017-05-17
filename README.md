@@ -42,7 +42,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [clonzo](https://github.com/MutedJam/clonzo) - Just another Node.js-based command line client for Monzo
 - [monz](https://github.com/pawelad/monz) - Simple (and awesome) Monzo command line interface
 
+
 ##### Android
+- [Analytics for Monzo](https://monzolytics.rubenwardy.com/) - Graphs and statistics
 - [MondoAndroid](https://github.com/joluet/MondoAndroid) - An Android app for Mondo
 - [Mondroid](https://github.com/hitherejoe/Mondroid) - A simple Mondo client for Android
 
