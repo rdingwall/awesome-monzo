@@ -7,10 +7,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Monzo Website](https://monzo.com)
 - [:newspaper: Monzo Blog](https://monzo.com/blog/)
-- [:speech_balloon: Monzo Community Forum](https://community.getmondo.co.uk)
+- [:speech_balloon: Monzo Community Forum](https://community.monzo.com)
 - [:blue_book: Monzo API Documentation](https://monzo.com/docs/)
 - [:wrench: Developers Console](https://developers.monzo.com/)
-- [:loudspeaker: Developer Slack](https://devslack.getmondo.co.uk/)
+- [:loudspeaker: Developer Slack](https://devslack.monzo.com/)
 - [:email: Developer Mailing List](https://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
 - [:octocat: Monzo on Github](https://github.com/monzo)
 - [:rotating_light: Mondo Service Status](http://mondo.statuspage.io/)
@@ -152,13 +152,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Mondo Hackathon #1
 
-- [The First Mondo Hackathon](https://getmondo.co.uk/blog/2015/10/01/the-first-mondo-hackathon/)
+- [The First Mondo Hackathon](https://monzo.com/blog/2015/10/01/the-first-mondo-hackathon/)
 - [The Internet of Things that connect to your bank account](https://medium.com/@simonvc/the-internet-of-things-that-connect-to-your-bank-account-ab8a6a2a44d7)
 
 ##### Mondo Hackathon #2
 
-- [#mondohack](https://getmondo.co.uk/blog/2015/11/22/mondohack/) - A weekend of hacking on banking APIs
-- [#mondohack: More Projects](https://getmondo.co.uk/blog/2015/11/30/mondohack-2/) - Projects from the second Mondo hackathon
+- [#mondohack: More Projects](https://monzo.com/blog/2015/11/30/mondohack-2/) - Projects from the second Mondo hackathon
 - [Mondo Hack and the bank of tomorrow](https://medium.com/@jonptaylor/mondo-hack-and-the-bank-of-tomorrow-62f672ccd2dd#.gq2axlx8x)
 - [Mondo Hackathon 2](https://www.linkedin.com/pulse/mondo-hackathon-2-dan-graf)
 - [What does a bank look like on your TV?](http://www.webcredible.com/blog/nov15-banking-tv/)
@@ -166,7 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Mondo Hackathon #3
 
-- [#mondohack III](https://getmondo.co.uk/blog/2016/01/28/mondohack-III/)
+- [#mondohack III](https://monzo.com/blog/2016/01/28/mondohack-III/)
 - [Mondo Hackathon #3](https://www.linkedin.com/pulse/mondo-hackathon-3-dan-graf)
 
 ##### Mondo Hackathon #4
