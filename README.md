@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Monzo to QIF CLI](https://github.com/scottrobertson/monzo-to-qif) - Export Monzo transaction to QIF via CLI
 - [My Mondo](https://github.com/Manoj-nathwani/my-mondo) - Mondo iOS app clone for web
 - [monzo-cljs](https://github.com/DaveWM/monzo-cljs) - A Monzo client built in clojurescript
+- [monzoid](https://github.com/jamesdools/monzoid) - A visualisation of your spending with Monzo
 
 ##### Desktop
 
