@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [My Mondo](https://github.com/Manoj-nathwani/my-mondo) - Mondo iOS app clone for web
 - [monzo-cljs](https://github.com/DaveWM/monzo-cljs) - A Monzo client built in clojurescript
 - [monzoid](https://github.com/jamesdools/monzoid) - A visualisation of your spending with Monzo
+- [monzo-web-client](https://github.com/roketworks/Monzo-Web-Client) - Transaction list & view, exporting, map and custom payday budgeting feature
 
 ##### Desktop
 
