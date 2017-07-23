@@ -49,6 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Analytics for Monzo](https://monzolytics.rubenwardy.com/) - Graphs and statistics
 - [MondoAndroid](https://github.com/joluet/MondoAndroid) - An Android app for Mondo
 - [Mondroid](https://github.com/hitherejoe/Mondroid) - A simple Mondo client for Android
+- [monzo-widget](https://github.com/emmaguy/monzo-widget) - An Android app widget for Monzo
 
 ##### Apple Watch
 
