@@ -109,6 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [monzo-php](https://github.com/ameliaikeda/monzo-php) - An API client for Monzo Bank (with a Laravel service provider)
 
 ##### Python
+- [libmonzo](https://github.com/dalemyers/libmonzo) - A Python 3 wrapper of the Monzo API that supports OAuth
 - [mondo-python](https://github.com/simonvc/mondo-python) - A simple python SDK for dealing with the Mondo API
 - [monzo-python](https://github.com/muyiwaolu/monzo-python) - A python SDK for interacting with the Monzo API
 - [monzo-python](https://github.com/pyepye/monzo-python) - A Python (2.7) wrapper for the Monzo API
