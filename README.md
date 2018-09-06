@@ -36,6 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Desktop
 
+- [bankbar](https://github.com/johneas10/bankBar) - Monzo on your desktop. Balance, spend & account details.
 - [mondobar](https://github.com/jongold/mondobar) - Your Mondo balance in your menubar
 - [Mondo.extension](https://github.com/danielgraf/Mondo.extension) - A browser extension for Mondo
 - [Mon.do Chrome Extension](https://github.com/dphobson/Mon.do.extension.chrome) - A browser extension for your Mondo account to get display your current balance and days spending
