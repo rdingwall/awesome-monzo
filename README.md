@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [monzo-cljs](https://github.com/DaveWM/monzo-cljs) - A Monzo client built in clojurescript
 - [monzoid](https://github.com/jamesdools/monzoid) - A visualisation of your spending with Monzo
 - [monzo-web-client](https://github.com/roketworks/Monzo-Web-Client) - Transaction list & view, exporting, map and custom payday budgeting feature
+- [monzo-reports](https://github.com/RiverPlateConsultancy/monzo-reports) - Expense reports out of Monzo API
 - [Dashbonzo](https://github.com/rossmuego/dashbonzo) - Online dashboard detailing transactions and spending with Monzo.
 - [monzo-balance](https://github.com/stuart-williams/monzo-balance) - Sometimes want to check your balance without out any other functionality whatsoever?? Monzo Balance is for you
 
