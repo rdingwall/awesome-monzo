@@ -13,7 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [:loudspeaker: Developer Slack](https://devslack.monzo.com/)
 - [:email: Developer Mailing List](https://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
 - [:octocat: Monzo on Github](https://github.com/monzo)
-- [:rotating_light: Mondo Service Status](http://mondo.statuspage.io/)
+- [:rotating_light: Mondo Service Status](http://monzo.statuspage.io/)
 - [:tshirt: Monzo Shop](https://monzo.com/shop/)
 
 ## Apps
