@@ -84,7 +84,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Go
 - [go-mondo](https://github.com/sjwhitworth/go-mondo) - Provides Go bindings for the Mondo banking app
 - [mondo](https://github.com/icio/mondo) - Golang Mondo API Client
-- [monzo-webhook-lambda](https://github.com/mattrco/monzo-webhook-lambda) - Trigger an AWS Lambda function from a webhook request 
+- [monzo-webhook-lambda](https://github.com/mattrco/monzo-webhook-lambda) - Trigger an AWS Lambda function from a webhook request
+- [go-monzo](https://github.com/gurparit/go-monzo) - Golang Monzo API Library
 
 ##### Haskell
 - [monzo](https://hackage.haskell.org/package/monzo) - Haskell bindings for the Monzo API
