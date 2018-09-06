@@ -32,6 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [monzoid](https://github.com/jamesdools/monzoid) - A visualisation of your spending with Monzo
 - [monzo-web-client](https://github.com/roketworks/Monzo-Web-Client) - Transaction list & view, exporting, map and custom payday budgeting feature
 - [Dashbonzo](https://github.com/rossmuego/dashbonzo) - Online dashboard detailing transactions and spending with Monzo.
+- [monzo-balance](https://github.com/stuart-williams/monzo-balance) - Sometimes want to check your balance without out any other functionality whatsoever?? Monzo Balance is for you
 
 ##### Desktop
 
@@ -81,6 +82,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Go
 - [go-mondo](https://github.com/sjwhitworth/go-mondo) - Provides Go bindings for the Mondo banking app
 - [mondo](https://github.com/icio/mondo) - Golang Mondo API Client
+- [monzo-webhook-lambda](https://github.com/mattrco/monzo-webhook-lambda) - Trigger an AWS Lambda function from a webhook request 
 
 ##### Haskell
 - [monzo](https://hackage.haskell.org/package/monzo) - Haskell bindings for the Monzo API
