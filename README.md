@@ -13,7 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [:loudspeaker: Developer Slack](https://devslack.monzo.com/)
 - [:email: Developer Mailing List](https://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
 - [:octocat: Monzo on Github](https://github.com/monzo)
-- [:rotating_light: Mondo Service Status](http://mondo.statuspage.io/)
+- [:rotating_light: Mondo Service Status](http://monzo.statuspage.io/)
 - [:tshirt: Monzo Shop](https://monzo.com/shop/)
 
 ## Apps
@@ -32,9 +32,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [monzoid](https://github.com/jamesdools/monzoid) - A visualisation of your spending with Monzo
 - [monzo-web-client](https://github.com/roketworks/Monzo-Web-Client) - Transaction list & view, exporting, map and custom payday budgeting feature
 - [monzo-reports](https://github.com/RiverPlateConsultancy/monzo-reports) - Expense reports out of Monzo API
+- [Dashbonzo](https://github.com/rossmuego/dashbonzo) - Online dashboard detailing transactions and spending with Monzo.
+- [monzo-balance](https://github.com/stuart-williams/monzo-balance) - Sometimes want to check your balance without out any other functionality whatsoever?? Monzo Balance is for you
 
 ##### Desktop
 
+- [bankbar](https://github.com/johneas10/bankBar) - Monzo on your desktop. Balance, spend & account details.
 - [mondobar](https://github.com/jongold/mondobar) - Your Mondo balance in your menubar
 - [Mondo.extension](https://github.com/danielgraf/Mondo.extension) - A browser extension for Mondo
 - [Mon.do Chrome Extension](https://github.com/dphobson/Mon.do.extension.chrome) - A browser extension for your Mondo account to get display your current balance and days spending
@@ -81,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ##### Go
 - [go-mondo](https://github.com/sjwhitworth/go-mondo) - Provides Go bindings for the Mondo banking app
 - [mondo](https://github.com/icio/mondo) - Golang Mondo API Client
+- [monzo-webhook-lambda](https://github.com/mattrco/monzo-webhook-lambda) - Trigger an AWS Lambda function from a webhook request 
 
 ##### Haskell
 - [monzo](https://hackage.haskell.org/package/monzo) - Haskell bindings for the Monzo API
