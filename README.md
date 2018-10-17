@@ -20,6 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ##### Web
 
+- [monzo-coffee](https://github.com/samdobson/monzo-coffee) - Tag transactions automatically with custom rules
 - [mondo-dashboard](https://github.com/MartinBlackburn/mondo-api) - A dashboard, with map, built on top of the Mondo API
 - [mondo-dashboard](https://github.com/willrax/mondo-dashboard) - A dashboard built on top of the Mondo API
 - [mondoweb](https://github.com/jamesallison/mondoweb) - An online banking client built on the Mondo API
