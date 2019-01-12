@@ -133,6 +133,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Integrations
 
+- [Node-RED Monzo](https://github.com/Sheaffy/node-red-contrib-monzo) - node-red wrapper for the monzo API
 - [alexa-monzo](https://github.com/Geit/alexa-monzo) - Monzo skill for the Amazon Alexa
 - [bitmondo](https://github.com/ondrejsika/bitmondo) - Show Bitcoin transactions at Mondo feed
 - [Foursquare](https://github.com/JasonBates/mhook) - Auto-foursquare checkin on transansactions
