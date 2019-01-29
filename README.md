@@ -10,7 +10,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [:speech_balloon: Monzo Community Forum](https://community.monzo.com)
 - [:blue_book: Monzo API Documentation](https://monzo.com/docs/)
 - [:wrench: Developers Console](https://developers.monzo.com/)
-- [:loudspeaker: Developer Slack](https://devslack.monzo.com/)
 - [:email: Developer Mailing List](https://getmondo.us10.list-manage.com/subscribe?u=f07f24134a901ee0d02d4cfaa&id=d2df75a837)
 - [:octocat: Monzo on Github](https://github.com/monzo)
 - [:rotating_light: Mondo Service Status](http://monzo.statuspage.io/)
