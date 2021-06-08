@@ -126,6 +126,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [omniauth-monzo](https://github.com/tombell/omniauth-monzo) - Monzo strategy for OmniAuth
 - [omniauth-monzo-example](https://github.com/tombell/omniauth-monzo-example) - Example Sinatra app using the Monzo provider for OmniAuth
 
+##### Rust
+- [monzo-lib](https://github.com/danieleades/monzo-lib) - A Monzo API using Rust
+
 ##### Swift
 - [MondoKit](https://github.com/pollarm/MondoKit) - A Swift framework for accessing the Mondo bank API
 - [monzo-swift](https://github.com/marius-serban/monzo-swift) - A server-side Swift package for interacting with the Monzo public API
